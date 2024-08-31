@@ -1,10 +1,10 @@
 # Binary Tree
 ## **The following codes of Binary Tree are shared :**
-01 Adding Node in a Binary Tree\
-02 Searching in Binary Tree\
-03 PreOrder Traversal\
-04 InOrder Traversal\
-05 PostOrder Traversal
+#01 Adding Node in a Binary Tree\
+#02 Searching in Binary Tree\
+#03 PreOrder Traversal\
+#04 InOrder Traversal\
+#05 PostOrder Traversal
 
 ````
 
