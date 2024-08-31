@@ -4,7 +4,7 @@
 
 ````
 # BUBBLE SORT
-'''
+
 # SWAPPING VARIABLE
 array =[9,0]
 temp = array[0]
